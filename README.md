@@ -1,0 +1,2 @@
+# StockMarketSentimentAnalysisUsingOpenAI
+Analysis Stock using OpenAi
